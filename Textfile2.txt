@@ -5,3 +5,4 @@ Ben adds this
 Ann was here
 Ben changes his local copy
 Ann adds one more line
+Can I launch Kdiff3?
