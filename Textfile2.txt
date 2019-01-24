@@ -1,7 +1,7 @@
 Another file!
 Who can etc
 She adds yet another line
-<<<<<<< HEAD
 Ben adds this
 Ann was here
+Ben changes his local copy
 
