@@ -3,5 +3,9 @@ Who can etc
 She adds yet another line
 Ben adds this
 Ann was here
+<<<<<<< HEAD
 Ben changes his local copy
 
+=======
+Ann adds one more line
+>>>>>>> 74a8d0345e7a23617c6efd2a39a8ae569c43dcf1
