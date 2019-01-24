@@ -4,5 +4,5 @@ She adds yet another line
 Ben adds this
 Ann was here
 Ben changes his local copy
-Ann adds one more line
-I need a conflict
+Ann adds one more lineI 
+I need a onflict to test Kdiff3
