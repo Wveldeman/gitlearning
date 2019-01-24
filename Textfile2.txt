@@ -3,6 +3,5 @@ Who can etc
 She adds yet another line
 <<<<<<< HEAD
 Ben adds this
-=======
 Ann was here
->>>>>>> 2a26feb7ae5826da06257ba401d44bb322734287
+
