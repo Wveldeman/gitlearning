@@ -7,3 +7,4 @@ Ann was here
 Ben changes his local copy
 Ann adds one more lineI 
 I need a onflict to test Kdiff3
+Ben keeps adding text to this file
