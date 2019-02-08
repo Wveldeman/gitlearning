@@ -1,5 +1,9 @@
 Hello World!
+<<<<<<< Updated upstream
 Anne here fixes a bug
+=======
+>>>>>>> Stashed changes
+Ben is doing some work here
 Ben added this near the start
 This is a second line in the file.
 Her name is Anne.
