@@ -1,3 +1,4 @@
+Anne fixed a bug in this file.
 Another file!
 Who can etc
 She adds yet another line
